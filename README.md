@@ -1,7 +1,10 @@
 # MMF_Model_Download
 MyMiniFactory Model Downloader
+
 by deliriyum
+
 https://gist.github.com/deliriyum/d353b9528e970e242b1915bb51da2a61
+
 README.md - Full workflow explanation
 1_mmf_download_metadata.sh - Get JSON metadata
 2_mmf_download_stl_files.sh - Get actual files
